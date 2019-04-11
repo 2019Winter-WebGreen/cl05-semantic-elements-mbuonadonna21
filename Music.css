@@ -1,0 +1,26 @@
+/*
+* Mia
+* April 10, 2019
+* Music
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+    /* This is where I changed the background color. */
+    background-color: azure
+    
+}
+
+    /* I used the header, main, and footer tags in the HTML to use the CSS to change the colors of the specific sections on the web page. */
+
+header {background-color: skyblue}
+main {background-color: lavenderblush}
+footer {background-color: paleturquoise}
